@@ -7,14 +7,18 @@ h1{
 h2{
     color:rgb(153, 206, 206);
     text-decoration: underline;
+    text-align: center;
 }
 h3{
     color:dodgerblue;
     text-decoration: underline;
+    text-align: center;
 }
 h4{
     color:darkslategray;
     text-decoration: underline;
+    text-align: center;
+
 
 }
 p.refrain{
@@ -28,6 +32,7 @@ p.couplet{
     text-align: center;
 }
 img{
-    margin-left: auto;
+    display: block;
     margin-right: auto;
+    margin-left: auto;
 }
