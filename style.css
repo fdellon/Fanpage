@@ -12,11 +12,22 @@ h3{
     color:dodgerblue;
     text-decoration: underline;
 }
+h4{
+    color:darkslategray;
+    text-decoration: underline;
+
+}
 p.refrain{
     color:midnightblue;
     font-style:italic;
+    text-align: center;
 
 }
 p.couplet{
     color:mediumblue;
+    text-align: center;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
 }
