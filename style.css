@@ -26,14 +26,14 @@ h4{
 
 }
 p.refrain{
-    color:midnightblue;
+    color:rgb(38, 38, 143);
     font-style:italic;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 p.couplet{
-    color:mediumblue;
+    color:rgb(216, 186, 16);
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -41,8 +41,8 @@ img{
     display: block;
     margin-right: auto;
     margin-left: auto;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 p.texte{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 }
+
