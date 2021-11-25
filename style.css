@@ -39,6 +39,7 @@ p.couplet{
 p.menu{
     color:indigo;
     text-align: center;
+    text-decoration: underline;
 }
 img{
     display: block;
