@@ -54,11 +54,7 @@ p.texte, li{
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         grid-column: 1;
         column-count: 1;
-        
-    }
-    {
-        display:gridgrid-template-column:1fr 1fr
-    }
+        }
     .container {
         display: grid;
         grid-template-columns: 1fr 1fr;
