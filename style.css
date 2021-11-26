@@ -56,7 +56,7 @@ p.texte, li{
         column-count: 1;
         
     }
-    .{
+    {
         display:gridgrid-template-column:1fr 1fr
     }
     .container {
