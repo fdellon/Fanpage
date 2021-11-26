@@ -37,10 +37,7 @@ img{
 p.texte, li{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 }
-.container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
+
 @media(min-width: 400px){
     p.refrain{
         color:rgb(38, 38, 143);
@@ -61,5 +58,9 @@ p.texte, li{
     }
     .{
         display:gridgrid-template-column:1fr 1fr
+    }
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
     }
 }
